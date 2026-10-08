@@ -88,18 +88,3 @@ Ejecutar:
 | Pruebas           | `java -cp out reto.pruebas.PruebasArbol`      |
 
 En VS Code también se puede abrir cualquiera de esas clases y usar Run.
-
-## Evidencia y enlaces
-
-| Elemento                                 | Enlace o ruta                                         |
-| ---------------------------------------- | ----------------------------------------------------- |
-| Informe en Canva                         | `[PEGAR ENLACE]`                                      |
-| Diapositivas en Canva                    | `[PEGAR ENLACE]`                                      |
-| Diapositivas en PDF                      | `presentacion/Introduccion_a_los_arboles_Grupo_1.pdf` |
-| Actividad interactiva (Kahoot o Quizizz) | `[PEGAR ENLACE]`                                      |
-| Banco de preguntas                       | `evidencia/banco_preguntas.md`                        |
-| Capturas de la actividad                 | `evidencia/capturas_kahoot/`                          |
-
-## Participación
-
-Cada integrante hizo sus propios commits en este repositorio.
